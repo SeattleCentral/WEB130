@@ -1,7 +1,7 @@
 ![](SeattleCentralLogo.png)
 # Syllabus
 
-#### ITC 110: PROGRAM CONCEPTS & FUNDAMENTALS
+#### WEB 130: WEB AUTHORING III
 #### Item No: 3179
 #### Section: 01
 #### Seattle Central College
