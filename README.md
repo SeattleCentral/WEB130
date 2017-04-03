@@ -22,7 +22,7 @@
 
 ## Course Description
 
-Building on students existing knowledge of HTML, CSS, and JavaScript/jQuery; students design and develop a standards-compliant, responsive website. HTML5, CSS3, and more advanced JavaScript (client and server side) scripting will be utilized. Students are encouraged to investigate and include emerging technologies and approaches into their web project. Students will create a final project to place in their portfolio.
+Building on existing knowledge of HTML, CSS, and JavaScript/jQuery; students will design and develop a standards-compliant, responsive website. HTML5, CSS3, and more advanced JavaScript (client and server side) scripting will be utilized. Students are encouraged to investigate and include emerging technologies and approaches into their web project. Students will create a final project to place in their portfolio.
 
 **Prerequisites:** WEB 120 and WEB 150 w/ 2.0 or higher.
  
@@ -36,7 +36,7 @@ Upon Completion of this course, students will be able to:
 3. Expand on existing knowledge of HTML forms to create professional looking forms with client and server side validation.
 5. Use CSS and JavaScript frameworks to enhance web pages.
 6. Optimize websites for mobile devices using responsive design principles.
-7. Understand the basics of the Bootstrap and other frameworks.
+7. Understand the basics of Bootstrap and other CSS frameworks.
 8. Enhance websites for SEO.
 
 
@@ -64,13 +64,13 @@ Assignments leading up to the final project will constitute half of the final gr
 
 ## Quizzes/Exams
 
-There will occassionally be written quizzes designed to test knowledge retention and evaluate class progression. These will be administered through Canvas and will constitute no more than 10% of the final grade.
+There will occassionally be quizzes designed to test knowledge retention and evaluate class progression. These will be administered through Canvas and will constitute no more than 10% of the final grade.
 
 As this course is project-based, there will be no exams.
 
 ## Evaluation (subject to change)
 
-Will be based on Assignments, Quizzes, and the Final Project.
+Evaluation will be based on Assignments, Quizzes, and the Final Project.
 
 <table>
 	<thead>
@@ -106,7 +106,7 @@ While regular attendance is not technically mandatory, in practice, it usually i
 
 This is a programming class and you need to be prepared to work hard and to spend an adequate amount of time outside of the classroom coding.   
 
-Helping / Working with Others
+## Helping / Working with Others
 
 I encourage you to work with other class members, which is how real life software is produced. However,  you must hand in your own assignments. If found cheating,  you will receive no credit and be subject to college disciplinary action. For more information, refer to your Academic Dishonesty Policy in the college catalog or student handbook.
 
