@@ -61,11 +61,11 @@ To receive full credit, your completed assignment should perform the required fu
 
 Students will have 1 additional week to correct code rejected for not meeting style guidelines. 
 
-Assignments leading up to the final project will constitute half of the final grade. The final project itself will constitue the remaining half.
+Assignments leading up to the final project will constitute half of the final grade. The final project itself will constitute the remaining half.
 
 ## Quizzes/Exams
 
-There will occassionally be quizzes designed to test knowledge retention and evaluate class progression. These will be administered through Canvas and will constitute no more than 10% of the final grade.
+There will occasionally be quizzes designed to test knowledge retention and evaluate class progression. These will be administered through Canvas and will constitute no more than 10% of the final grade.
 
 As this course is project-based, there will be no exams.
 
