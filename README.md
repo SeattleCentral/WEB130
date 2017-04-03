@@ -2,54 +2,57 @@
 # Syllabus
 
 #### WEB 130: WEB AUTHORING III
-#### Item No: 3179
+#### Item No: 3235
 #### Section: 01
 #### Seattle Central College
 
 ## Course Information
 
-* Credits: 5.0 
-* Quarter: Winter 2017
-* Location: BE 3179
+* Credits: 4.0 
+* Quarter: Spring 2017
+* Location: BE 3174
 * Days: MW
-* Time: 7:15pm - 9:20pm
+* Time: 5:00pm - 6:50pm
 * Instructor: Joshua Wedekind
-* Office: Call for my current location. [(206) 930-2645](tel:+12069302645)
-* Office Hours:  MW 4pm - 6:30pm
+* Office: BE 3175 C. Call/text to verify my current location. [(206) 930-2645](tel:+12069302645)
+* Office Hours:  MW 7:00pm - 8:30pm
 * E-Mail: [joshua.wedekind@seattlecolleges.edu](mailto:joshua.wedekind@seattlecolleges.edu)
-* Website: [https://github.com/SeattleCentral/ITC110](https://github.com/SeattleCentral/ITC110)
+* Website: [https://github.com/SeattleCentral/WEB130](https://github.com/SeattleCentral/WEB130)
 * Github: [halfnibble](https://github.com/halfnibble)
 
 ## Course Description
 
-Intro to basic computing concepts and object oriented programming. Prereq: BTM 111 w/ 2.0 or higher and eligibility for MAT 088, or instructor permission.
+Building on students existing knowledge of HTML, CSS, and JavaScript/jQuery; students design and develop a standards-compliant, responsive website. HTML5, CSS3, and more advanced JavaScript (client and server side) scripting will be utilized. Students are encouraged to investigate and include emerging technologies and approaches into their web project. Students will create a final project to place in their portfolio.
+
+**Prerequisites:** WEB 120 and WEB 150 w/ 2.0 or higher.
  
 ## Course Goals
 
-After completing this course students will understand the basic concepts of computer programming and put them in practice with Python and eventually, with other programming languages. 
+Upon Completion of this course, students will be able to:
+			
+1. Expand on existing knowledge of HTML and CSS.
+2. Create professional looking, web standards compliant, responsive websites using HTML5, CSS/CSS3, and JavaScript/jQuery.
+3. Use advanced features of HTML5 and JavaScript/jQuery.
+3. Expand on existing knowledge of HTML forms to create professional looking forms with client and server side validation.
+5. Use CSS and JavaScript frameworks to enhance web pages.
+6. Optimize websites for mobile devices using responsive design principles.
+7. Understand the basics of the Bootstrap and other frameworks.
+8. Enhance websites for SEO.
 
-#### These concepts include:
-* Elements of Programs: Names, expressions
-* Output Statements
-* Assignment Statements
-* Numeric Data Types and Computing with numbers
-* Objects
-* Graphics
-* Sequences: Strings, Lists, Files
-* Functions
-* Decision Structures
-* Loop Structures and Booleans
-* Classes
-* Object Oriented Design
-* Algorithms
 
 ## Textbook (required):
 
-Python Programming: An Introduction to Computer Science 3rd Ed by John Zelle
+Mastering Responsive Web Design: Push your HTML and CSS skills to the limit and build professional grade, responsive websites
+<cite>by Ricardo Zea</cite>
 
-## Assignments
+Available at the College Bookstore.<br>
+**ISBN-10:** 1783550236<br>
+**ISBN-13:** 978-1783550234<br>
+And also on [amazon.com](https://www.amazon.com/Mastering-Responsive-Web-Design-Ricardo/dp/1783550236/ref=sr_1_1?ie=UTF8&qid=1491179215&sr=8-1&keywords=mastering+responsive+design)
 
-Weekly Assignments will be emailed by the instructor until Canvas is setup for this course. All assignments are designed to give you practice with new skills, concepts, and tools covered in class.
+## Assignments/Projects
+
+Regular assignments building up to the final project will be posted in Canvas. All assignments are designed to give the student practice with new skills, concepts, and tools covered in class.
 
 Your homework must be turned in on time. Late submissions may be granted partial credit when accompanied by an ingenuitive excuse. Generally speaking, students will learn more if coursework is up-to-date with the lecture. Unfortunately, assignments turned in after course end will receive 0 points. 
 
@@ -57,32 +60,51 @@ To receive full credit, your completed assignment should perform the required fu
 
 Students will have 1 additional week to correct code rejected for not meeting style guidelines. 
 
-Assignments are worth 20 points each.
+Assignments leading up to the final project will constitute half of the final grade. The final project itself will constitue the remaining half.
 
 ## Quizzes/Exams
 
-There will be multiple Quizzes, a Midterm, and a Final Exam.
-Quizzes will normally be administered in class and may be “group efforts.”
-Missing a Quiz due to absence will be addressed on a case-by-case basis. In most cases, makeups will be allowed unless absences become problematic.
-The Midterm and Final Exam will include multiple choice questions, short answer, writing short code snippets, and identifying errors in printed code.
-Quizzes are worth 20 points each.
-The Midterm and Final Exam are worth 100 points each.
+There will occassionally be written quizzes designed to test knowledge retention and evaluate class progression. These will be administered through Canvas and will constitute no more than 10% of the final grade.
+
+As this course is project-based, there will be no exams.
 
 ## Evaluation (subject to change)
 
-Will be based on Assignments, Quizzes, the Midterm, and the Final Exam.
+Will be based on Assignments, Quizzes, and the Final Project.
 
-
+<table>
+	<thead>
+		<tr>
+			<th>Task</th>
+			<th>Grade %</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Assignments</td>
+			<td rowspan="2">50%</td>
+		</tr>
+		<tr>
+			<td>Quizzes</td>
+		</tr>
+		<tr>
+			<td>Final Project</td>
+			<td>50%</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Materials
 
-USB Drive or Cloud Storage 
+USB Drive or Cloud Storage and/or Personal Laptop.
+
+A private Web Server may be helpful, but is not required.
 
 ## Attendance 
 
-While regular attendance is not technically mandatory, in practice, it usually is. This is by design to mimic “real life” scenarios. Often times, showing up is the most important thing. And being present for lectures, group quizzes, and code reviews will greatly improve your grade.  
+While regular attendance is not technically mandatory, in practice, it usually is. This is by design to mimic “real life” scenarios. Often times, showing up is the most important thing. And being present for lectures, quizzes, and code reviews will greatly improve your grade.  
 
-This is a programming class and you need to be prepared to work hard and to spend adequate amount of time outside of the classroom coding.   
+This is a programming class and you need to be prepared to work hard and to spend an adequate amount of time outside of the classroom coding.   
 
 Helping / Working with Others
 
