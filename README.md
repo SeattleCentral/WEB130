@@ -42,7 +42,8 @@ Upon Completion of this course, students will be able to:
 
 ## Textbook (required):
 
-Mastering Responsive Web Design: Push your HTML and CSS skills to the limit and build professional grade, responsive websites
+Mastering Responsive Web Design: Push your HTML and CSS skills to the limit and build professional grade, responsive websites.
+
 <cite>by Ricardo Zea</cite>
 
 Available at the College Bookstore.<br>
@@ -117,54 +118,71 @@ Students with documented disabilities requesting class accommodations, requiring
 
 ## Schedule (Subject to Change)
 
-**Week 1**<br>
-Chapter 1: Computers and Programs
+**Week 1**
 
-**Week 2**<br>
-Chapter 1, continued: Computers and Programs<br>
-Chapter 2: Writing Simple Programs
+* Introduction and review of HTML & CSS
+* Setting up the development environment
+* Intro to Sass/SCSS
+* Chapter 1 of MRWD
 
-**Week 3**<br>
-Chapter 2, continued: Writing Simple Programs<br>
-Chapter 3: Computing with Numbers
+**Week 2**
 
-**Week 4**<br>
-Chapter 3, continued: Computing with Numbers<br>
-Chapter 4: Objects and Graphics
+* More on Sass/SCSS
+* Working with HTML5 tags
+* Chapter 2 of MRWD
 
-**Week 5**<br>
-Chapter 4, continued: Objects and Graphics
+**Week 3**
 
-**Week 6**<br>
-Chapter 5: Sequences: Strings, Lists, Files<br>
-Midterm - **February 8th, 2017**
+* Responsive design concepts
+* Chapter 3 of MRWD
 
-**Week 7**<br>
-Chapter 6: Functions<br>
-Chapter 7: Decision Structures
+**Week 4**
 
-**Week 8**<br>
-Chapter 8: Loop Structures and booleans
+* Grid Systems
+* Chapter 4 of MRWD
 
-**Week 9**<br>
-Chapter 8, continued: Loop Structures and booleans<br>
-Chapter 9: Simulation and Design
+**Week 5**
 
-**Week 10**<br>
-Chapter 10: Defining Classes<br>
-Chapter 11: Data Collections
+* More on Grid Systems
+* Intro to CSS Frameworks (Bootstrap)
 
-**Week 11**<br>
-Chapter 12: OO Design<br>
-Chapter 13: Algorithm Design and Recursion
+**Week 6**
 
-**Week 12**<br>
-Review<br>
-Final Exam - **March 22nd, 2017**
+* Mobile UI considerations
+* Working with Bootstrap
+* Chatper 5 of MRWD
+
+**Week 7**
+
+* Typography considerations
+* Chapter 7 of MRWD
+
+**Week 8**
+
+* Introduction to GraphQL and Scaphold.io
+* Review of HTML forms
+* HTML5 form elements
+* Using jQuery with forms and Scaphold.io
+
+**Week 9**
+
+* Putting it together: Scaphold.io API, forms, jQuery, and Bootstrap
+* Designing a web application
+
+**Week 10**
+
+* More on Bootstrap
+* Other CSS frameworks
+* Intro to JavaScript frameworks
+
+**Week 11**
+
+* SEO considerations
+* Responsive emails
+* Chapter 8 of MRWD
 
 **\*No class on**<br>
-January 16th, 2017 - Martin Luther King, Jr. Day<br>
-February 20th, 2017 - President's Day
+May 29th, 2017 - Memorial Day<br>
 
 See College Holidays
 
