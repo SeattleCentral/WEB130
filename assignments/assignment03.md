@@ -1,4 +1,4 @@
-## Assignment 02
+## Assignment 03
 Assigned on: April 19, 2017
 
 Due: May 01, 2017
@@ -8,7 +8,7 @@ Due: May 01, 2017
 * Build a responsive navigation menu using the included design assets.
 * Plan on participating in a public code review on Google Hangouts on May 1st.
 
-<img src="assignment03_design.png" width="640px">
+<img src="assignment03_design.png" width="780px">
 
 
 ## Style Guidelines
