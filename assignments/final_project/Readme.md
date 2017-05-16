@@ -37,14 +37,14 @@ Total: 100 pts.
 You may use this design as is, or modified.
 
 ### Authentication View
-<img src="Login_Form.png" width="780px">
+<img src="Login_Form.png" >
 
 ### Form View
-<img src="Article_Form.png" width="780px">
+<img src="Article_Form.png">
 
 ### List View
-<img src="Newspaper_Landing.png" width="780px">
+<img src="Newspaper_Landing.png">
 
 ### Detail View
-<img src="Newspaper_Article.png" width="780px">
+<img src="Newspaper_Article.png">
 
