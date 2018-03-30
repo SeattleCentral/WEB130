@@ -1,7 +1,7 @@
 ## Assignment 02
-Assigned on: April 10, 2017
+Assigned on: April 09, 2018
 
-Due: April 19, 2017
+Due: April 18, 2018
 
 ## Complete The Following
 * Read Chapter 2 of Mastering Responsive Web Design.

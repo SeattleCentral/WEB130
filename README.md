@@ -3,19 +3,20 @@
 
 #### WEB 130: WEB AUTHORING III
 #### Item No: 3235
-#### Section: 01
+#### Section: HY
 #### Seattle Central College
 
 ## Course Information
 
-* Credits: 4.0 
-* Quarter: Spring 2017
-* Location: BE 3174
+* Credits: 5.0 
+* Quarter: Spring 2018
+* Location: BE 3173
 * Days: MW
 * Time: 5:00pm - 6:50pm
+* Dates: 04/02/2018 - 06/12/2018
 * Instructor: Joshua Wedekind
 * Office: BE 3175 C. Call/text to verify my current location. [(206) 930-2645](tel:+12069302645)
-* Office Hours:  MW 7:00pm - 8:30pm
+* Office Hours:  MW 4:00pm - 5:00pm
 * E-Mail: [joshua.wedekind@seattlecolleges.edu](mailto:joshua.wedekind@seattlecolleges.edu)
 * Website: [https://github.com/SeattleCentral/WEB130](https://github.com/SeattleCentral/WEB130)
 * Github: [halfnibble](https://github.com/halfnibble)
@@ -113,7 +114,7 @@ I encourage you to work with other class members, which is how real life softwar
 
 ## Accessibility
 
-Students with documented disabilities requesting class accommodations, requiring special arrangements in case of building evacuation, or having emergency medical information the instructor should know about are asked to contact the disability support services office (DSS) in Rm. 1112. Once the disability is verified with DSS you will be given a letter of accommodation that should be handed to your instructor.
+Students with documented disabilities requesting class accommodations, requiring special arrangements in case of building evacuation, or have emergency medical information the instructor should know about are asked to contact the disability support services office (DSS) in BE1112. Once the disability is verified with DSS the student will be given a letter of accommodation (LOA) to be handed to instructor.
 
 
 ## Schedule (Subject to Change)
@@ -159,14 +160,14 @@ Students with documented disabilities requesting class accommodations, requiring
 
 **Week 8**
 
-* Introduction to GraphQL and Scaphold.io
+* Introduction to GraphQL and AWS AppSync
 * Review of HTML forms
 * HTML5 form elements
-* Using jQuery with forms and Scaphold.io
+* Using jQuery with forms and AWS AppSync
 
 **Week 9**
 
-* Putting it together: Scaphold.io API, forms, jQuery, and Bootstrap
+* Putting it together: AWS AppSync, forms, jQuery, and Bootstrap
 * Designing a web application
 
 **Week 10**
@@ -182,7 +183,28 @@ Students with documented disabilities requesting class accommodations, requiring
 * Chapter 8 of MRWD
 
 **\*No class on**<br>
-May 29th, 2017 - Memorial Day<br>
+May 28th, 2018 - Memorial Day<br>
 
 See College Holidays
+
+
+# Americans with Disability Act (ADA) (BE1112)
+
+Students with documented disabilities requesting class accommodations, requiring special arrangements in case of building evacuation, or have emergency medical information the instructor should know about are asked to contact the disability support services office (DSS) in BE1112. Once the disability is verified with DSS the student will be given a letter of accommodation (LOA) to be handed to instructor.
+
+## Accommodation Process:
+
+- If a student contacts the instructor about an accommodation request the instructor will refer the student to the Disability Support Service office in BE1112 for an appointment to discuss accommodation needs.
+
+- If the DSS office determines that the student does indeed have a disability the student will be given a letter of accommodation (LOA) that will state the accommodation to be implemented.
+
+- The student’s responsibility is to hand the LOA to the instructor. The instructor will sign the letter (if there is agreement with the accommodation) and give it back to the student. Student will return the LOA to DSS.
+
+# Title IX
+
+Seattle College District has a zero-tolerance policy on sexual harassment, discrimination, sexual violence, rape, bullying, or hazing. Please see District Policy and Procedure 419 https://inside.seattlecolleges.edu/policies/content/polPro.aspx?policyID=pro419
+
+for the process on investigating and responding to reports of sexual harassment and sexual discrimination. Those who have experienced sexual harassment or discrimination, sexual violence, bullying, or are aware of an incident involving these violations, are encouraged to report immediately to: Christina Nelson (Title IX Coordinator): 206.934.4017, Christina.M.Nelson@seattlecolleges.edu or Jennie Chen (District Compliance Officer): 206.934.3873, jennie.chen@seattlecolleges.edu.
+
+**Seattle Colleges faculty and staff are required to report incidents of sexual misconduct to the Title IX Coordinator.**
 

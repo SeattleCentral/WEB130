@@ -1,7 +1,7 @@
 ## Final Project
-Assigned on: May 15th, 2017
+Assigned on: May 14th, 2018
 
-Due: June 12th, 2017
+Due: June 11th, 2018
 
 ## Complete The Following
 * Build a responsive web application as your final project.

@@ -1,7 +1,7 @@
 ## Assignment 03
-Assigned on: April 19, 2017
+Assigned on: April 18, 2018
 
-Due: May 01, 2017
+Due: April 30, 2018
 
 ## Complete The Following
 * Read Chapters 3 & 4 of Mastering Responsive Web Design.
