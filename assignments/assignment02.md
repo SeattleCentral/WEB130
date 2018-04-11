@@ -7,7 +7,7 @@ Due: April 18, 2018
 * Read Chapter 2 of Mastering Responsive Web Design.
 * Building on the in-class news article project, create a responsive layout using proper HTML5 elements.
 	* Make use of Sass mixins to break articles into columns based off of screen size.
-	* For various screen sizes, make use of the [column-width](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts) styling for an article.
+	* For various screen sizes, make use of the [column-count](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts) styling for an article.
 	* Test it with real news articles.
 	* Handle at least three different breakpoints (small, medium, and large).
 
