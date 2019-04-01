@@ -9,21 +9,21 @@
 ## Course Information
 
 * Credits: 5.0 
-* Quarter: Spring 2018
+* Quarter: Spring 2019
 * Location: BE 3173
 * Days: MW
 * Time: 5:00pm - 6:50pm
-* Dates: 04/02/2018 - 06/12/2018
+* Dates: 04/01/2019 - 06/14/2019
 * Instructor: Joshua Wedekind
 * Office: BE 3175 C. Call/text to verify my current location. [(206) 930-2645](tel:+12069302645)
-* Office Hours:  MW 4:00pm - 5:00pm
+* Office Hours:  MW 4:30pm - 5:00pm (and after class)
 * E-Mail: [joshua.wedekind@seattlecolleges.edu](mailto:joshua.wedekind@seattlecolleges.edu)
 * Website: [https://github.com/SeattleCentral/WEB130](https://github.com/SeattleCentral/WEB130)
 * Github: [halfnibble](https://github.com/halfnibble)
 
 ## Course Description
 
-Building on existing knowledge of HTML, CSS, and JavaScript/jQuery; students will design and develop a standards-compliant, responsive website. HTML5, CSS3, and more advanced JavaScript (client and server side) scripting will be utilized. Students are encouraged to investigate and include emerging technologies and approaches into their web project. Students will create a final project to place in their portfolio.
+Building on existing knowledge of HTML, CSS, and JavaScript/jQuery; students will design and develop a standards-compliant, responsive website. HTML5, CSS3, and advanced JavaScript (client and server side) will be utilized. Emerging web-related technologies, including build systems (gulp) and CSS frameworks (Bootstrap), will be introduced. Students are expected to create a final project to place in their portfolio.
 
 **Prerequisites:** WEB 120 and WEB 150 w/ 2.0 or higher.
  
@@ -41,16 +41,9 @@ Upon Completion of this course, students will be able to:
 8. Enhance websites for SEO.
 
 
-## Textbook (required):
+## Textbook (~~required~~):
 
-Mastering Responsive Web Design: Push your HTML and CSS skills to the limit and build professional grade, responsive websites.
-
-<cite>by Ricardo Zea</cite>
-
-Available at the College Bookstore.<br>
-**ISBN-10:** 1783550236<br>
-**ISBN-13:** 978-1783550234<br>
-And also on [amazon.com](https://www.amazon.com/Mastering-Responsive-Web-Design-Ricardo/dp/1783550236/ref=sr_1_1?ie=UTF8&qid=1491179215&sr=8-1&keywords=mastering+responsive+design)
+\[deprecated]
 
 ## Assignments/Projects
 
@@ -66,7 +59,7 @@ Assignments leading up to the final project will constitute half of the final gr
 
 ## Quizzes/Exams
 
-There will occasionally be quizzes designed to test knowledge retention and evaluate class progression. These will be administered through Canvas and will constitute no more than 10% of the final grade.
+There may occasionally be quizzes designed to test knowledge retention and evaluate class progression. These will be administered through Canvas and will constitute no more than 10% of the final grade.
 
 As this course is project-based, there will be no exams.
 
@@ -100,7 +93,7 @@ Evaluation will be based on Assignments, Quizzes, and the Final Project.
 
 USB Drive or Cloud Storage and/or Personal Laptop.
 
-A private Web Server may be helpful, but is not required.
+An AWS acccount for Cloud9 use. Note: we will attempt to use only resources that qualify for AWS's *free tier*, but if you are already using such resources, then expect to be billed according to the AWS pricing policy. If you absolutely cannot sign up for an AWS account, then contact your instructor for access to shared resources (access will end at the end of quarter). 
 
 ## Attendance 
 
@@ -124,23 +117,19 @@ Students with documented disabilities requesting class accommodations, requiring
 * Introduction and review of HTML & CSS
 * Setting up the development environment
 * Intro to Sass/SCSS
-* Chapter 1 of MRWD
 
 **Week 2**
 
 * More on Sass/SCSS
 * Working with HTML5 tags
-* Chapter 2 of MRWD
 
 **Week 3**
 
 * Responsive design concepts
-* Chapter 3 of MRWD
 
 **Week 4**
 
 * Grid Systems
-* Chapter 4 of MRWD
 
 **Week 5**
 
@@ -151,23 +140,21 @@ Students with documented disabilities requesting class accommodations, requiring
 
 * Mobile UI considerations
 * Working with Bootstrap
-* Chatper 5 of MRWD
 
 **Week 7**
 
 * Typography considerations
-* Chapter 7 of MRWD
 
 **Week 8**
 
-* Introduction to GraphQL and AWS AppSync
+* Introduction to GraphQL and ~~AWS AppSync~~ TBD backend
 * Review of HTML forms
 * HTML5 form elements
-* Using jQuery with forms and AWS AppSync
+* Using jQuery with forms and ~~AWS AppSync~~ TBD backend
 
 **Week 9**
 
-* Putting it together: AWS AppSync, forms, jQuery, and Bootstrap
+* Putting it together: Backend API, forms, jQuery, and Bootstrap
 * Designing a web application
 
 **Week 10**
@@ -180,10 +167,9 @@ Students with documented disabilities requesting class accommodations, requiring
 
 * SEO considerations
 * Responsive emails
-* Chapter 8 of MRWD
 
 **\*No class on**<br>
-May 28th, 2018 - Memorial Day<br>
+May 27th, 2019 - Memorial Day<br>
 
 See College Holidays
 
