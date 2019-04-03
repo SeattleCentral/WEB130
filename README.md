@@ -147,14 +147,14 @@ Students with documented disabilities requesting class accommodations, requiring
 
 **Week 8**
 
-* Introduction to GraphQL and ~~AWS AppSync~~ TBD backend
+* Introduction to GraphQL and GraphCMS
 * Review of HTML forms
 * HTML5 form elements
-* Using jQuery with forms and ~~AWS AppSync~~ TBD backend
+* Using jQuery with forms and GraphCMS
 
 **Week 9**
 
-* Putting it together: Backend API, forms, jQuery, and Bootstrap
+* Putting it together: GraphCMS API, forms, jQuery, and Bootstrap
 * Designing a web application
 
 **Week 10**
