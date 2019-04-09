@@ -1,7 +1,7 @@
 ## Assignment 02
-Assigned on: April 08, 2019
+Assigned on: April 10, 2019
 
-Due: April 15, 2019
+Due: April 17, 2019
 
 ## Complete The Following
 * Building on the in-class news article project, create a responsive layout using proper HTML5 elements.
