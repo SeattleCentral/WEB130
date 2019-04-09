@@ -1,10 +1,9 @@
 ## Assignment 02
-Assigned on: April 09, 2018
+Assigned on: April 08, 2019
 
-Due: April 18, 2018
+Due: April 15, 2019
 
 ## Complete The Following
-* Read Chapter 2 of Mastering Responsive Web Design.
 * Building on the in-class news article project, create a responsive layout using proper HTML5 elements.
 	* Make use of Sass mixins to break articles into columns based off of screen size.
 	* For various screen sizes, make use of the [column-count](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts) styling for an article.
@@ -13,8 +12,8 @@ Due: April 18, 2018
 
 ## Style Guidelines
 * Use 4 spaces for indentation.
-* Always indent nested HTML tags
-* Always indent nested CSS/Sass/SCSS.
+* Always indent nested HTML tags (except HEAD/BODY)
+* Always indent nested Sass/SCSS.
 * You may use either Sass or SCSS syntax.
 
 
